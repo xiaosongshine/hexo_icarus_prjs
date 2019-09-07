@@ -26,5 +26,3 @@ theme: icarus
 最后，请使用如下命令来启动Hexo本地测试服务器。祝您下笔如有神！
 
 > 在此网站上您可以阅读开始使用系列文章来快速掌握Icarus。同时，如果需要更多的Icarus使用示例，您可以从GitHub上下载site分支的Icarus源码。
-
-thinks
