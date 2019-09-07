@@ -89,3 +89,8 @@ admin:
   password_hash: $2a$10$LuUqKTGV50bfDmCVkeYENucvSgDtXGsIkNEfq.tpUKT5kC/.LPJoG
   secret: secret_phrase
   deployCommand: 'hexo-generate.sh' 
+
+# Security
+##
+encrypt:
+    enable: true
