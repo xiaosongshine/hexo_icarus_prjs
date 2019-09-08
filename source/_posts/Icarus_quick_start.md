@@ -1,6 +1,6 @@
 title: Icarus快速上手
 thumbnail: >-
-  https://images.unsplash.com/photo-1502083728181-687546e77613?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80
+  https://images.unsplash.com/photo-1502083728181-687546e77613?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=32
 author: 小宋是呢
 abstract: Icarus以简洁、现代和精美为设计理念。
 tags:

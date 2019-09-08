@@ -5,7 +5,7 @@ tags:
 categories: 
   - html
 thumbnail: >-
-  https://images.unsplash.com/photo-1514761261404-b98b1682cefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+  https://images.unsplash.com/photo-1514761261404-b98b1682cefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=32
 language: zh-CN
 toc: true
 top: true

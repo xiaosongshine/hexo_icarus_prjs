@@ -1,6 +1,6 @@
 title: Icarus简单配置
 thumbnail: >-
-  https://images.unsplash.com/photo-1468476396571-4d6f2a427ee7?ixlib=rb-1.2.1&auto=format&fit=crop&w=2044&q=80
+  https://images.unsplash.com/photo-1468476396571-4d6f2a427ee7?ixlib=rb-1.2.1&auto=format&fit=crop&w=2044&q=32
 author: 小宋是呢
 abstract: Icarus的配置包括两部分：主题配置和后台配置。
 password: 1234567890

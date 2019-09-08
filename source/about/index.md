@@ -1,5 +1,5 @@
 title: about
-thumbnail: images/DeepMiss.png
+thumbnail: images/DM_logo.png
 date: 2019-09-07 18:01:11
 ---
 
