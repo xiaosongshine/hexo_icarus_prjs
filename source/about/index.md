@@ -1,5 +1,5 @@
 title: about
-thumbnail: https://images.unsplash.com/photo-1513340310737-46c6c6196b2f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
+thumbnail: images/DeepMiss.png
 date: 2019-09-07 18:01:11
 ---
 
