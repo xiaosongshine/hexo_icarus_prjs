@@ -1,15 +1,20 @@
 title: Hexo快速上手
 author: 小宋是呢
-tags: []
-categories: []
+tags:
+  - hexo
+categories: 
+  - html
 thumbnail: >-
   https://images.unsplash.com/photo-1514761261404-b98b1682cefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
-language: zh
+language: zh-CN
+toc: true
+top: true
 date: 2019-09-08 10:46:00
 ---
 
 Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
 
+<!-- more -->
 
 ##### 安装
 
