@@ -90,6 +90,10 @@ admin:
   secret: secret_phrase
   deployCommand: 'hexo-generate.sh' 
 
+metadata: 
+  thumbnail: thumbnail
+  language: language
+
 # Security
 ##
 encrypt:
